@@ -2,6 +2,7 @@
 # Hi, I'm Levi 👋
 
 - 🥀 Fã do Mael Developer  ...
+- 📍 Odeio o VisionFX  ...
 - 🎈 Odeio Java e se um dia eu começar a usar e mentira.
 
 ![Levi GitHub stats](https://github-readme-stats.vercel.app/api?username=Levizada&show_icons=true&theme=dark)
