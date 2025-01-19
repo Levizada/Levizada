@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Eu+sou+Levi!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Eu+sou+o+Levi!;" />
 </div>
 
-<h2 align="center">Desenvolvedor FiveM & Entusiasta de Tecnologia 🚀</h2>
+<h2 align="center">FiveM Developer</h2>
 
 <br/>
 
@@ -17,7 +17,7 @@
 <h2 align="center">⚡ Tecnologias</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,lua,java,html,css,nodejs,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,lua,nodejs" />
 </div>
 
 <h2 align="center">🌟 Projetos em Destaque</h2>
@@ -32,11 +32,8 @@
 
 <h2 align="center">🤝 Meus Projetos</h2>
 <div align="center">
-    <a href="SEU_LINK_DO_DISCORD" target="_blank">
+    <a href="discord.gg/purpleapps" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-    </a>
-    <a href="mailto:SEU_EMAIL">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
 
