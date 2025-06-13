@@ -5,10 +5,7 @@
 
   <br/>
 
-  <img height="40" src="https://cdn.simpleicons.org/python/ffffff" />
-  <img height="40" src="https://cdn.simpleicons.org/javascript/ffffff" />
   <img height="40" src="https://cdn.simpleicons.org/lua/ffffff" />
-  <img height="40" src="https://cdn.simpleicons.org/nodedotjs/ffffff" />
 
   <br/><br/>
 
